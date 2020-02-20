@@ -1,5 +1,5 @@
 ---
-title: Flask中正则URL的实现
+title: flask中正则url的实现
 categories: 后端
 tags: flask
 date: 2020-02-18 12:14:54
